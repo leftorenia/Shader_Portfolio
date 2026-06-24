@@ -7,7 +7,7 @@
 ## 内容
 
 - Learning
-  - Omocha_Surf2VF
+  - OmochaLab_Surf2VF
 
 
 ## 開発環境
