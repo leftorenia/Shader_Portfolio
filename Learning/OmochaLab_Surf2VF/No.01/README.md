@@ -2,6 +2,10 @@
 
 https://nn-hokuson.hatenablog.com/entry/2016/10/05/201022
 
-## 困った点
+## 元Shaderの概要
+
+## 要件定義
+
+
 
 ## 改善点
