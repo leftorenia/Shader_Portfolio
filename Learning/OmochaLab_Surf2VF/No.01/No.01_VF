@@ -41,5 +41,5 @@ Shader "LefShader/No.01_VF"
             ENDCG
         }
     }
-    FallBack "Diffuse"
+    FallBack Off
 }
